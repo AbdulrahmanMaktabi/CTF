@@ -55,6 +55,7 @@ layer -> add spectrogram
 # OSINT
 **yandex for image**
 **to found user social accountes https://github.com/sherlock-project/sherlock.git**
+**dtmf decoder -> for phone sound**
 
 ****
 
